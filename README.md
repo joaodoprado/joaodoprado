@@ -1,12 +1,15 @@
 ## Olá Pessoal! 😁
 
-Me chamo João Vitor Barroso do Prado Bezerra e sou Desenvolvedor Backend, atualmente cursando Desenvolvimento de software - Foco em backend - iFood na @cubosacademy e Engenharia de software na Universidade Cruzeiro do Sul.
+Me chamo João Vitor Barroso do Prado Bezerra e sou **Desenvolvedor Backend**, atualmente cursando Desenvolvimento de software - Foco em backend - iFood na [@cubosacademy](https://cubos.academy/) e Engenharia de software na [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/).
 
-## Hard Skills:
-![image](https://github.com/joaodoprado/joaodoprado/assets/129133080/802050f0-afb3-46f2-afea-3d70699fde5d) ![icons8-nodejs-96](https://github.com/joaodoprado/joaodoprado/assets/129133080/faad3b95-810b-419f-8e76-e7ddad5a9213) ![image](https://github.com/joaodoprado/joaodoprado/assets/129133080/b610a912-e629-4047-875d-aeccefc053c5)
+## 🌎 Minhas Redes
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-do-prado/)
+[![instagram.com/ei_joao08/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ei_joao08/)
+## 🚀 Hard Skills:
+![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![html5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 
