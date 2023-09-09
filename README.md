@@ -3,7 +3,11 @@
 Me chamo João Vitor Barroso do Prado Bezerra e sou Desenvolvedor Backend, atualmente cursando Desenvolvimento de software - Foco em backend - iFood na @cubosacademy e Engenharia de software na Universidade Cruzeiro do Sul.
 
 ### Hard Skills:
-![image](https://github.com/joaodoprado/joaodoprado/assets/129133080/9cb9ab72-6e08-44f1-b907-3ec40b5d71ae) ![icons8-nodejs-96](https://github.com/joaodoprado/joaodoprado/assets/129133080/faad3b95-810b-419f-8e76-e7ddad5a9213) ![image](https://github.com/joaodoprado/joaodoprado/assets/129133080/a63698f9-9a0b-49f5-a2b7-88d3eea12c0c)
+![image](https://github.com/joaodoprado/joaodoprado/assets/129133080/802050f0-afb3-46f2-afea-3d70699fde5d) ![icons8-nodejs-96](https://github.com/joaodoprado/joaodoprado/assets/129133080/faad3b95-810b-419f-8e76-e7ddad5a9213) ![image](https://github.com/joaodoprado/joaodoprado/assets/129133080/b610a912-e629-4047-875d-aeccefc053c5)
+
+
+
+
 
 
 
