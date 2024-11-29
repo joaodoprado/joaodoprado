@@ -1,6 +1,6 @@
 ## Olá Pessoal! 😁
 
-Me chamo João Vitor Barroso do Prado Bezerra e sou **Desenvolvedor Backend**, atualmente cursando Desenvolvimento de software - Foco em backend - iFood na [@cubosacademy](https://cubos.academy/) e Engenharia de software na [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/).
+Me chamo João Vitor Barroso do Prado Bezerra e sou **Desenvolvedor Backend**, possuo certificação em Desenvolvimento de software - Foco em backend - iFood na [@cubosacademy](https://cubos.academy/) e atualmente estou cursando Engenharia de Software na [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/).
 
 ## 🌎 Minhas Redes
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-do-prado/)
