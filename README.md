@@ -1,34 +1,37 @@
-## Olá Pessoal! 😁
+🎓 Estudante de Engenharia de Software (6º semestre) | Cruzeiro do Sul
+📍 Desenvolvedor SIG em formação | Automação Geoespacial com PyQGIS
 
-Me chamo João Vitor Barroso do Prado Bezerra e sou **Desenvolvedor Backend**, possuo certificação em Desenvolvimento de software - Foco em backend - iFood na [@cubosacademy](https://cubos.academy/) e atualmente estou cursando Engenharia de Software na [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/).
+---
 
-## 🌎 Minhas Redes
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-do-prado/)
-## 🚀 Hard Skills:
-![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![html5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+💻 **Tecnologias:**
+Python • PyQGIS • Spatial Analysis • Geoprocessamento • Automação de Workflows
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+🚀 **Projeto em Destaque: Spatial Isolation Detector**
 
+Algoritmo de processamento customizado para QGIS que reduz análises espaciais 
+de horas para segundos. Implementação de Spatial Index (R-Tree) para 
+otimização de performance e cálculos geodésicos precisos.
 
+🔹 O(n log n) vs O(n²) tradicional
+🔹 50.000+ pontos processados em <5 segundos
+🔹 Código open-source: github.com/joaodoprado/qgis-spatial-isolation-detector
 
+---
 
+🎯 **Objetivo:**
+Atuar como desenvolvedor de soluções SIG, criando plugins e automações 
+para QGIS/ArcGIS que otimizem workflows de análise espacial.
 
+---
 
+📚 **Em constante aprendizado:**
+• Desenvolvimento de plugins QGIS
+• Processamento de grandes volumes de dados geoespaciais
+• Integração de sistemas corporativos com ferramentas SIG
 
+---
 
-
-<!--
-**joaodoprado/joaodoprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contato:**
+joaobprado@email.com | github.com/joaodoprado
