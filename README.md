@@ -1,45 +1,82 @@
-🗺️ Desenvolvedor de Soluções Geoespaciais | Python • PyQGIS • Automação
+# João do Prado
 
-Transformo workflows manuais de SIG em processos automatizados, escaláveis 
-e precisos. Especializado em otimização de performance para análise espacial 
-de grandes volumes de dados.
+Analista de Geoprocessamento com foco em **automação GIS e desenvolvimento em Python (PyQGIS)**.
 
----
+Atuo no desenvolvimento de ferramentas para **otimização de workflows de análise espacial**, integrando automação, indexação espacial e processamento geoespacial em ambientes QGIS.
 
-🔧 **Stack Técnico:**
-
-`Python` `PyQGIS` `Spatial Index (R-Tree)` `QgsDistanceArea` `Qt5` 
-`GDAL/OGR` `Processamento em Lote` `EPSG:4326/WGS84`
+📍 São Luís - MA
+📧 [jv.prado98@gmail.com](mailto:jv.prado98@gmail.com)
 
 ---
 
-🚀 **Projeto em Produção: Spatial Isolation Detector**
+# Tecnologias
 
-Algoritmo customizado para QGIS que identifica pontos isolados em datasets 
-massivos utilizando Spatial Index e cálculos geodésicos elipsoidais.
+**Geoprocessamento**
 
-⚡ Performance: 50.000+ feições em <5 segundos (O(n log n))
-🎯 Precisão: Milimétrica via QgsDistanceArea com WGS84
-🔌 Integração: Native Processing Framework do QGIS
+* QGIS
+* PyQGIS
+* Spatial Analysis
+* GDAL / OGR
 
-👉 Código: github.com/joaodoprado/qgis-spatial-isolation-detector
+**Programação**
+
+* Python
+* Automação de workflows geoespaciais
+
+**Modelagem e CAD**
+
+* AutoCAD
+* Revit
+* SketchUp
 
 ---
 
-💼 **O que faço:**
+# Projetos em Destaque
 
-• Automação de workflows geoespaciais repetitivos
-• Desenvolvimento de plugins e scripts para QGIS
-• Otimização de consultas espaciais (R-Tree, BBOX filtering)
-• Padronização de dados para integração corporativa
-• Transformação de processos manuais em soluções code-based
+## Spatial Isolation Detector
+
+Ferramenta PyQGIS para **detecção automatizada de feições pontuais isoladas em datasets geoespaciais**, utilizando **Spatial Index (R-Tree)** para otimização de consultas espaciais.
+
+Principais características:
+
+* algoritmo otimizado **O(n log n)**
+* cálculos geodésicos via **QgsDistanceArea**
+* integração com **QGIS Processing Toolbox**
+
+🔗 Projeto:
+https://github.com/joaodoprado/qgis-spatial-isolation-detector
 
 ---
 
-🎓 **Formação:**
-Engenharia de Software (6º semestre) — Cruzeiro do Sul
-Técnologo em Geoprocessamento (1º semestre) - Uniasselvi
+# Áreas de Interesse
 
-📍 **Local:** [São Luis - MA]
+* Automação de processos GIS
+* Desenvolvimento de ferramentas PyQGIS
+* Engenharia de dados geoespaciais
+* Spatial analysis em grandes datasets
 
-📫 **Contato:** jv.prado98@gmail.com | github.com/joaodoprado
+---
+
+# Em desenvolvimento
+
+Atualmente desenvolvendo novas ferramentas para automação de workflows GIS:
+
+* validação automática de topologia
+* análise de conectividade espacial
+* clusterização de dados geoespaciais
+
+---
+
+# Formação
+
+🎓 Engenharia de Software — Cruzeiro do Sul (em andamento)
+
+🎓 Tecnólogo em Geoprocessamento — Uniasselvi (em andamento)
+
+---
+
+# GitHub Stats
+
+![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodoprado\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodoprado\&layout=compact)
