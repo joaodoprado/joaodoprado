@@ -34,4 +34,4 @@ para QGIS/ArcGIS que otimizem workflows de análise espacial.
 ---
 
 📫 **Contato:**
-joaobprado@email.com | github.com/joaodoprado
+jv.prado98@gmail.com | github.com/joaodoprado
