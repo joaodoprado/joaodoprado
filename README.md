@@ -72,8 +72,6 @@ Atualmente desenvolvendo novas ferramentas para automação de workflows GIS:
 
 🎓 Engenharia de Software — Cruzeiro do Sul (em andamento)
 
-🎓 Tecnólogo em Geoprocessamento — Uniasselvi (em andamento)
-
 ---
 
 # GitHub Stats
