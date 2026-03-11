@@ -51,6 +51,7 @@ https://github.com/joaodoprado/qgis-spatial-isolation-detector
 # Áreas de Interesse
 
 * Automação de processos GIS
+* Analista de Geoprocessamento
 * Desenvolvimento de ferramentas PyQGIS
 * Engenharia de dados geoespaciais
 * Spatial analysis em grandes datasets
