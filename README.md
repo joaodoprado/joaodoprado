@@ -1,6 +1,6 @@
 # João do Prado
 
-Trabalho com geoprocessamento aplicado a cadastro de infraestrutura urbana —
+Trabalho com geoprocessamento aplicado a cadastro de infraestrutura urbana
 análise, correção e automação de dados geoespaciais com Python e QGIS.
 
 Desenvolvo ferramentas Processing para problemas reais que aparecem no dia a dia:
