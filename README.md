@@ -44,6 +44,7 @@ AutoCAD · Revit · SketchUp
 ## Formação
 
 🎓 Engenharia de Software — Cruzeiro do Sul (em andamento)
+📚 Tecnólogo em Geoprocessamento — Uniasselvi (início março/2026)
 
 ---
 
