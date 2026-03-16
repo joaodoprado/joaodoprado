@@ -7,7 +7,7 @@ Desenvolvo ferramentas Processing para problemas reais que aparecem no dia a dia
 coordenadas divergentes entre cadastros, registros novos não identificados,
 áreas com potencial de cadastro não registrado.
 
-📍 São Luís, MA · 📧 jv.prado98@gmail.com
+📍 São Luís, MA · 📧 jv.prado98@gmail.com · [linkedin.com/in/joao-do-prado](https://www.linkedin.com/in/joao-do-prado/)
 
 ---
 
