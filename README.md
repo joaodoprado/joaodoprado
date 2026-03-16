@@ -41,6 +41,7 @@ Python · automação de workflows geoespaciais
 **CAD / BIM**
 AutoCAD · Revit · SketchUp
 
+![image]({https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white})
 ---
 
 ## Formação
