@@ -8,6 +8,7 @@ coordenadas divergentes entre cadastros, registros novos não identificados,
 áreas com potencial de cadastro não registrado.
 
 📍 São Luís, MA · 📧 jv.prado98@gmail.com  · 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-do-prado/)
 
 ---
